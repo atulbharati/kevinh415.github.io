@@ -1,6 +1,8 @@
 ## Olympic Athletes Over the Years - A Tutorial on Analyzing and Interpreting Data
 ### Authors: Akshay Anil, Atul Bharati, Chaewoon Hong
 
+<a href="tutorial.html" title="tutorial">Click here to see the tutorial!</a>
+
 You can use the [editor on GitHub](https://github.com/kevinh415/kevinh415.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
