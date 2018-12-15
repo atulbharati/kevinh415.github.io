@@ -10,6 +10,6 @@ This tutorial was created by three University of Maryland students for a final p
 
 ---
 
-# [CLICK HERE TO VIEW THE TUTORIAL](kevinh415.github.io) 
+# [CLICK HERE TO VIEW THE TUTORIAL](https://kevinh415.github.io/) 
 
 ---
